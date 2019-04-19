@@ -1,0 +1,14 @@
+{
+  "main.css": "/auth/static/css/main.ee4dc80e.chunk.css",
+  "main.js": "/auth/static/js/main.fb657215.chunk.js",
+  "main.js.map": "/auth/static/js/main.fb657215.chunk.js.map",
+  "runtime~main.js": "/auth/static/js/runtime~main.7372c815.js",
+  "runtime~main.js.map": "/auth/static/js/runtime~main.7372c815.js.map",
+  "static/js/2.825a8842.chunk.js": "/auth/static/js/2.825a8842.chunk.js",
+  "static/js/2.825a8842.chunk.js.map": "/auth/static/js/2.825a8842.chunk.js.map",
+  "index.html": "/auth/index.html",
+  "precache-manifest.3465947b738ee91b8a6b12dcb2e18842.js": "/auth/precache-manifest.3465947b738ee91b8a6b12dcb2e18842.js",
+  "service-worker.js": "/auth/service-worker.js",
+  "static/css/main.ee4dc80e.chunk.css.map": "/auth/static/css/main.ee4dc80e.chunk.css.map",
+  "static/media/App.css": "/auth/static/media/back-btn.713fe29d.svg"
+}
