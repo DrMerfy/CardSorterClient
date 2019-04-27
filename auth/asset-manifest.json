@@ -1,13 +1,13 @@
 {
   "main.css": "/auth/static/css/main.ee4dc80e.chunk.css",
-  "main.js": "/auth/static/js/main.a70b47fb.chunk.js",
-  "main.js.map": "/auth/static/js/main.a70b47fb.chunk.js.map",
+  "main.js": "/auth/static/js/main.ac2ca128.chunk.js",
+  "main.js.map": "/auth/static/js/main.ac2ca128.chunk.js.map",
   "runtime~main.js": "/auth/static/js/runtime~main.7372c815.js",
   "runtime~main.js.map": "/auth/static/js/runtime~main.7372c815.js.map",
-  "static/js/2.825a8842.chunk.js": "/auth/static/js/2.825a8842.chunk.js",
-  "static/js/2.825a8842.chunk.js.map": "/auth/static/js/2.825a8842.chunk.js.map",
+  "static/js/2.25da05cc.chunk.js": "/auth/static/js/2.25da05cc.chunk.js",
+  "static/js/2.25da05cc.chunk.js.map": "/auth/static/js/2.25da05cc.chunk.js.map",
   "index.html": "/auth/index.html",
-  "precache-manifest.18a6dabf74cd0a7259137b69fee6a7f7.js": "/auth/precache-manifest.18a6dabf74cd0a7259137b69fee6a7f7.js",
+  "precache-manifest.8bddca6833de9ab06cb80faf62e7b737.js": "/auth/precache-manifest.8bddca6833de9ab06cb80faf62e7b737.js",
   "service-worker.js": "/auth/service-worker.js",
   "static/css/main.ee4dc80e.chunk.css.map": "/auth/static/css/main.ee4dc80e.chunk.css.map",
   "static/media/App.css": "/auth/static/media/back-btn.713fe29d.svg"
