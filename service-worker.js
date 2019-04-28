@@ -14,7 +14,11 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
+<<<<<<< HEAD
   "/precache-manifest.525e5f5b17fa4c32644fcf2c18f390fa.js"
+=======
+  "/precache-manifest.cd38f70049ad7165fb5171d19dd80d2e.js"
+>>>>>>> Routing bug
 );
 
 workbox.clientsClaim();
