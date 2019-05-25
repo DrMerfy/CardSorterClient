@@ -1,14 +1,14 @@
 {
-  "main.css": "/auth/static/css/main.e28e5fcb.chunk.css",
-  "main.js": "/auth/static/js/main.e615dde8.chunk.js",
-  "main.js.map": "/auth/static/js/main.e615dde8.chunk.js.map",
+  "main.css": "/auth/static/css/main.4d1d307e.chunk.css",
+  "main.js": "/auth/static/js/main.356c360e.chunk.js",
+  "main.js.map": "/auth/static/js/main.356c360e.chunk.js.map",
   "runtime~main.js": "/auth/static/js/runtime~main.7372c815.js",
   "runtime~main.js.map": "/auth/static/js/runtime~main.7372c815.js.map",
   "static/js/2.825a8842.chunk.js": "/auth/static/js/2.825a8842.chunk.js",
   "static/js/2.825a8842.chunk.js.map": "/auth/static/js/2.825a8842.chunk.js.map",
   "index.html": "/auth/index.html",
-  "precache-manifest.9fc681aad281b3b8e1ff0f05238d74c3.js": "/auth/precache-manifest.9fc681aad281b3b8e1ff0f05238d74c3.js",
+  "precache-manifest.45c11935f67032e4b07ed1dc445bb938.js": "/auth/precache-manifest.45c11935f67032e4b07ed1dc445bb938.js",
   "service-worker.js": "/auth/service-worker.js",
-  "static/css/main.e28e5fcb.chunk.css.map": "/auth/static/css/main.e28e5fcb.chunk.css.map",
+  "static/css/main.4d1d307e.chunk.css.map": "/auth/static/css/main.4d1d307e.chunk.css.map",
   "static/media/App.css": "/auth/static/media/back-btn.713fe29d.svg"
 }
